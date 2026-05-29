@@ -1,0 +1,6 @@
+Hola, esto es una prueba:
+
+  1. Hoy es 29/05/2026.
+  2. Estamos a viernes.
+  3. Me gusta Aitana.
+  4. Estoy trabajando.
